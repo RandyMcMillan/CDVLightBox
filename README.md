@@ -9,4 +9,5 @@ I used a template and quickly modified it.
 Check out the templates:
 [https://github.com/RandyMcMillan/cdv-ios-plugin-templates](https://github.com/RandyMcMillan/cdv-ios-plugin-templates)
 
-By having the Xcode templates available you can quickly write custom templates on the fly.
+By having the Xcode templates available you can quickly write custom
+plugins on the fly.
